@@ -1,0 +1,113 @@
+body {
+margin: 15px 0px 0px;
+padding-bottom: 15px;
+background: #BBD0CD url(../_img/wave-blue.png) repeat fixed;
+color: #333333;
+}
+
+.wrapper {
+-moz-box-shadow: 0 0 9px #666;
+-webkit-box-shadow: 0 0 9px #666;
+box-shadow: 0 0 9px #666;
+background: #FFFFFF;
+margin-bottom: 30px;
+}
+
+.side-pusher {
+padding: 1% 5% 1% 5%;
+overflow: auto;
+}
+
+.biggie {
+font-size: 120%;
+font-weight: bold;
+}
+
+.biggiered {
+font-size: 120%;
+font-weight: bold;
+color: #e50914;
+}
+
+.superbiggie {
+font-size: 180%;
+font-weight: bold;
+}
+
+.riggie {
+font-size: 110%;
+font-weight: bold;
+color: #ff0033;
+}
+
+.nobot {
+margin-bottom: 0px;
+padding-bottom: 0px;
+}
+
+.codehighlight {
+color: #667d69;
+font-weight: bold;
+}
+
+.key {
+font-weight: bold;
+color: #666666;
+}
+
+.alerti {
+color: #FF3333;
+}
+
+.les {
+float: left;
+margin-right: 9px;
+border: 1px solid #999999;
+}
+
+
+.outer {
+-moz-box-shadow: 0 0 9px #666;
+-webkit-box-shadow: 0 0 9px #666;
+box-shadow: 0 0 9px #666;
+background: rgba(255,255,255,.9);
+}
+
+.inner {
+padding-top: 21px;
+padding-right: 55px;
+padding-bottom: 0px;
+padding-left: 55px;
+}
+
+
+.logods {
+-moz-box-shadow: 0 0 6px #666;
+-webkit-box-shadow: 0 0 6px #666;
+box-shadow: 0 0 6px #666;
+}
+
+.buttonds {
+-moz-box-shadow: 0 0 3px #666;
+-webkit-box-shadow: 0 0 3px #666;
+box-shadow: 0 0 3px #666;
+border: 3px solid #ffffff;
+background: #105930;
+}
+
+.buttondslight {
+-moz-box-shadow: 0 0 3px #666;
+-webkit-box-shadow: 0 0 3px #666;
+box-shadow: 0 0 3px #666;
+border: 3px solid #ffffff;
+background: #5BA144;
+}
+
+.buttondsAc {
+-moz-box-shadow: 0 0 3px #666;
+-webkit-box-shadow: 0 0 3px #666;
+box-shadow: 0 0 3px #666;
+border: 3px solid #ffffff;
+background-color: #B4C746;
+color: #333;
+}
